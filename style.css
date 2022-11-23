@@ -1,0 +1,15 @@
+
+.imagename{
+    font-size: small;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#favorite{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(171, 99, 6);
+    text-align: center;
+    margin-top: 10px ;
+}
